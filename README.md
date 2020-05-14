@@ -16,6 +16,7 @@ Everything doc related is currently authored in Notion. Here are the public page
 - [Mentions](https://www.notion.so/learnany/Mentions-6e2255da2b9d47b68aa090502ddf904a)
 - [Idea Hub](https://www.notion.so/learnany/Idea-Hub-bbf5a60c42e24da0b43f5e944c710f17)
 - [Other Notes](https://www.notion.so/learnany/Other-notes-6097747c94324d6f9a8939d7442cbb6a)
+- [TODO](https://www.notion.so/learnany/TODO-df1c2b6100c8460f9b1f7807f35ee2b4)
 
 You are welcome to join our community on [Discord](https://discord.gg/KKYdWjt) and contribute to the [code](https://github.com/learn-anything/learn-anything).
 
