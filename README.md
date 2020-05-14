@@ -6,7 +6,7 @@ Everything doc related is currently authored in Notion. Here are the public page
 - [Guides/Lists](https://www.notion.so/learnany/Guides-Lists-56f71405fbfd4842b55e9993b60cbf0e)
 - [iOS app](https://www.notion.so/learnany/iOS-app-b8e58e7239ea4cd193eefb5ecb19f80a)
 - [Browser Extension](https://www.notion.so/learnany/Browser-extension-40417b74e7a643e8b2b9ff344ef653f7)
-- [Tech Stack]https://www.notion.so/learnany/Tech-stack-561576b1bac54abe9086b6aa8dcfb206
+- [Tech Stack](https://www.notion.so/learnany/Tech-stack-561576b1bac54abe9086b6aa8dcfb206)
 - [Link Manager](https://www.notion.so/learnany/Link-manager-b53ee72d83ce496b9d970a50e465d2e7)
 - [Visual Editor](https://www.notion.so/learnany/Visual-editor-6afbdb6733174d37961551dfe2fcd814)
 - [Auth](https://www.notion.so/learnany/Auth-0c84cab22b6343db8889410bc1493d06)
