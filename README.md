@@ -8,6 +8,7 @@ Everything doc related is currently authored in Notion. Here are the public page
 - [Browser Extension](https://www.notion.so/learnany/Browser-extension-40417b74e7a643e8b2b9ff344ef653f7)
 - [Tech Stack](https://www.notion.so/learnany/Tech-stack-561576b1bac54abe9086b6aa8dcfb206)
 - [Link Manager](https://www.notion.so/learnany/Link-manager-b53ee72d83ce496b9d970a50e465d2e7)
+- [Note Manager](https://www.notion.so/learnany/Note-manager-5693d3e809f74b7689f1d639db42e799)
 - [Visual Editor](https://www.notion.so/learnany/Visual-editor-6afbdb6733174d37961551dfe2fcd814)
 - [Auth](https://www.notion.so/learnany/Auth-0c84cab22b6343db8889410bc1493d06)
 - [Funding](https://www.notion.so/learnany/Funding-95ce11a5ceb24d4abe6d28a39a196bcd)
