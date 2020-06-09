@@ -21,6 +21,7 @@ Everything doc related is currently authored in Notion. Here are the public page
 - [Feed](https://www.notion.so/learnany/Feed-c3c9c09d33a24796a2881fcc51c4a452)
 - [Pricing](https://www.notion.so/learnany/Pricing-1b329d9ec33842578278f114d57a6ba4)
 - [Dev UX](https://www.notion.so/learnany/Dev-UX-6c23b1e8004f4b039bfd300f408b82ca)
+- [Moderating](https://www.notion.so/learnany/Moderating-8391de92b3fe42a6a8043dbc813b5aaf)
 - [Other Notes](https://www.notion.so/learnany/Other-notes-6097747c94324d6f9a8939d7442cbb6a)
 - [TODO](https://www.notion.so/learnany/TODO-df1c2b6100c8460f9b1f7807f35ee2b4)
 
