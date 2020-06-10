@@ -2,6 +2,7 @@
 
 Everything doc related is currently authored in Notion. Here are the public pages of these Notions docs.
 
+- [Knowledge Graph](https://www.notion.so/learnany/Knowledge-Graph-a726859b7c5148bd92ea6ed9110cc442)
 - [URL Structure](https://www.notion.so/learnany/URL-structure-b96497e8894a4bc2a1d66d3e713d22f8)
 - [Guides/Lists](https://www.notion.so/learnany/Guides-Lists-56f71405fbfd4842b55e9993b60cbf0e)
 - [iOS app](https://www.notion.so/learnany/iOS-app-b8e58e7239ea4cd193eefb5ecb19f80a)
