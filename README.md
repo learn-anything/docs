@@ -14,7 +14,7 @@ Everything doc related is currently authored in Notion. Here are the public page
 - [Auth](https://www.notion.so/learnany/Auth-0c84cab22b6343db8889410bc1493d06)
 - [Funding](https://www.notion.so/learnany/Funding-95ce11a5ceb24d4abe6d28a39a196bcd)
 - [Community](https://www.notion.so/learnany/Community-99b1948a3ede4b4d8cd17c7af7c58a55)
-- [Structure](https://www.notion.so/Structure-a2e6f9fbd52545808660886758f9dd1a)
+- [Social](https://www.notion.so/Structure-a2e6f9fbd52545808660886758f9dd1a)
 - [Mentions](https://www.notion.so/learnany/Mentions-6e2255da2b9d47b68aa090502ddf904a)
 - [Idea Hub](https://www.notion.so/learnany/Idea-Hub-bbf5a60c42e24da0b43f5e944c710f17)
 - [Design](https://www.notion.so/learnany/Design-0e05c9aa646d40718f72ce380fe3ff86)
