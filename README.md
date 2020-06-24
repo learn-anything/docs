@@ -1,6 +1,6 @@
 # Learn Anything Docs
 
-Everything doc related is currently authored in Notion. Here are the public pages of these Notions docs.
+Everything doc related is authored in Notion. Here are the public pages of these Notions docs.
 
 - [Knowledge Graph](https://www.notion.so/learnany/Knowledge-Graph-a726859b7c5148bd92ea6ed9110cc442)
 - [URL Structure](https://www.notion.so/learnany/URL-structure-b96497e8894a4bc2a1d66d3e713d22f8)
@@ -26,8 +26,6 @@ Everything doc related is currently authored in Notion. Here are the public page
 - [Moderating](https://www.notion.so/learnany/Moderating-8391de92b3fe42a6a8043dbc813b5aaf)
 - [Other Notes](https://www.notion.so/learnany/Other-notes-6097747c94324d6f9a8939d7442cbb6a)
 
-You are welcome to join our community on [Discord](https://discord.gg/KKYdWjt) and contribute to the [code](https://github.com/learn-anything/learn-anything).
+You are welcome to join our community on [Discord](https://discord.gg/KKYdWjt).
 
-We laid out our vision for the project in [Roadmap](roadmap.md).
-
-[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/) [![Discord](https://img.shields.io/badge/-Discord-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://discord.gg/KKYdWjt) [![Support](https://img.shields.io/badge/%E2%9D%A4-Support-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://www.patreon.com/learnanything) [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
+[![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) [![Discord](https://img.shields.io/badge/-Discord-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://discord.gg/KKYdWjt) [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
