@@ -1,4 +1,4 @@
-# Learn Anything Docs
+# [Learn Anything Docs](http://docs.learn-anything.xyz)
 
 We share most of our plans & docs in public as we build the project out. We author everything in Notion & all our public documents can be viewed [here](https://www.notion.so/learnany/Public-b3b8e046a6bc44549367b84423360b93).
 
