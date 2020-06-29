@@ -19,7 +19,7 @@ To achieve this goal, we hope to build these features:
 
 ## Why do we learn? To build Ideas.
 
-After this is build, we want to also cover the big issue we see with education as it stands and that is incentive or otherwise answering the question of 'Why learn anything?'. Aside from curiosity of how things work, people learn because they want to create novel things they care about. To solve this, we want to build a powerful platform for sharing and building ideas together. As well as ability to financially motivate people to work on ideas.
+After this is built, we want to also cover the big issue we see with education as it stands and that is incentive or otherwise answering the question of 'Why learn anything?'. Aside from curiosity of how things work, people learn because they want to create novel things they care about. To solve this, we want to build a powerful platform for sharing and building ideas together. As well as ability to financially motivate people to work on ideas.
 
 Such a platform will be very closely integrated with the learning platform specified above. You can imagine a user who searches for a topic `JavaScript` and as he/she scrolls the guides of links to learn about the topic. Learn Anything also shows various ideas that people have submitted tagged with that topic. These are real things that people wish existed.
 
