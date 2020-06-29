@@ -2,27 +2,40 @@
 
 ## Goals
 
-Create an open source tool that allows anyone to learn anything in the most efficient way. It should allow users to:
+Create the best platform possible for learning anything as well as finding & building novel ideas together.
 
-- Curate knowledge through study guides. Where study guides can contain links and text with optional dependencies. Guides can be guided or unguided.
-- Extend and improve any of the study guides through collaboration. The GitHub model of forking, suggesting changes. But simpler and more streamlined.
-- Have access to an open knowledge graph of topics. Users can specify their proficiency in a given topic as well as mark topics to learn next.
-- Search for any topic in the knowledge graph and see all study guides available for a given topic. As well as show related topics.
-- Be able to extend the knowledge graph and improve the accuracy of the relationships between topics.
-- Be able to visualize the knowledge graph in various ways. Learn Anything provides both all the source code and all the data for public use.
+To achieve this goal, we hope to build these features:
 
-## Ideas
+- Powerful link manager similar to [Pinboard](https://pinboard.in/). Tagging links, adding notes to links, associating links to other links.
+- Tools to curate study guides for learning any topic. A study guide is a page of links similar to an awesome list on GitHub. Users can create & collaborate on these guides using links they collected as building blocks.
+- An open knowledge graph of topics where topics can cover multiple tags. Users similar to services like [Goodreads](https://www.goodreads.com) can mark any topic as as learning or learned.
+- Such a graph of topics allows progression of knowledge. Feeds can be generated for each topic a user is learning.
+- Social network of users with ability to follow users and see what links, topics they are learning.
+- Links from user's database can be marked as learned and to learn as well. Making learning easily manageable. Each link from any guide can easily be added to your personal database of link. Each guide can be progressively followed.
+- Learn Anything will create its own guides for each of the topics. In future these guides will use advanced features and take into account user's already learned topics/links to craft personalized guides for each user.
+- Each topic that is learned is added to a personal database. These topics can then be connected via a powerful graph editor. Ideally this allow users to make sense of connections between topics already learned and draw connections of how they relate to each other.
+- Learn Anything can then take all these separate user connections made by users and create a global map of all the connections. If a lot of users marked JavaScript and CSS as connected, then a connection will be drawn on a global map.
+- Such global map can allow to see all the topics one can possibly learn and explore it. Users can then easily mark topics to learn next and progress in their journey to learn anything.
 
-Aside from building the best tool for learning, Learn Anything should solve the core incentive of why people learn. And that is because they are either curious how the universe works or they want to build something. To solve the latter, we want to build the best ideas platform on the web. This platform should let users:
+## Why do we learn? To build Ideas.
 
-- Share any idea either publicly or privately.
-- Find relevant ideas based on interest and skill.
-- Let people message and collaborate to work on ideas together.
+After this is build, we want to also cover the big issue we see with education as it stands and that is incentive or otherwise answering the question of 'Why learn anything?'. Aside from curiosity of how things work, people learn because they want to create novel things they care about. To solve this, we want to build a powerful platform for sharing and building ideas together. As well as ability to financially motivate people to work on ideas.
 
-## Open to change
+Such a platform will be very closely integrated with the learning platform specified above. You can imagine a user who searches for a topic `JavaScript` and as he/she scrolls the guides of links to learn about the topic. Learn Anything also shows various ideas that people have submitted tagged with that topic. These are real things that people wish existed.
 
-The goals above may change. Hopefully we grow a community of passionate learners and developers who are set on solving the problem of maximizing the efficiency of learning new things and finding impactful and interesting things to create.
+To achieve this goal of creating the best platform for sharing and building on ideas together, we hope to build these features:
 
-As the community and product grows, machine learning can be used to effectively make use of submitted information to the platform. One can imagine a ML system that can create the **perfect** study guides for any user topic request that is perfectly tailored to the user. This will take into account all the information that is available. Topics already learned, preference in style of learning (video, text, visualizations) and material (resources) already covered.
+- Ability to write ideas with descriptions, media files. An example of how such ideas can look like can be seen [here in Notion](https://www.notion.so/Ideas-0b5a4e8a88f34fe29a1f33dad02e5332).
+- Ideas have a title, a description with optional media files & appropriate tags or topics that it is related to.
+- Ideas can optionally be marked as private by user. Each idea has a status set by the creator. Creator can set any of his/her ideas as `working on` or `done`. Similar to how the same user can track progress on links/topics.
+- If user has connected his/her payment details. Each idea can be funded directly by sending any amount of money to it. At the end of the month all the money from all ideas of that user will be transferred to the creator's account.
+- In future such funding can be handle more complex cases of real investments. Specifically users can share private ideas to selected individuals like investors.
+- Aside from funding an idea directly, other users can also comment or upvote any idea. Such comments can include solutions that already exist for the idea. Or requests to build the idea together.
 
-Same applies for Ideas platform. Ideally these two platforms (Learning & Ideas) become one of the same thing. As you learn new things, ideas are being suggested to you for potential things you can build that **people want**. No more 1000 of TODO or note taking apps. Solving real problems that you care about where learning is just a tool.
+## Help us build it
+
+We personally cannot wait to build such a platform. We hope by building it, we finally kill the broken education system that exists now in many parts of the world. Education as it stands now is inflexible but above all it's insulting to the students who just wish to create things **now**. Not in the future.
+
+Our team is small. Just me, [Nikita](https://github.com/nikitavoloboev) and [John](https://github.com/jletey). We wish we can hire someone to help us build this together but we can't finance it as it stands.
+
+If you are an investor reading this, we would love to get in touch with you. Otherwise if you wish still to join our team our community, you are [welcome to do so](https://discord.gg/KKYdWjt). Thank you ❤️
