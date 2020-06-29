@@ -7,7 +7,7 @@ Create the best platform possible for learning anything as well as finding & bui
 To achieve this goal, we hope to build these features:
 
 - Powerful link manager similar to [Pinboard](https://pinboard.in/). Tagging links, adding notes to links, associating links to other links.
-- Tools to curate study guides for learning any topic. A study guide is a page of links similar to an awesome list on GitHub. Users can create & collaborate on these guides using links they collected as building blocks.
+- Tools to curate study guides for learning any topic. A study guide is a page of links similar to an [awesome list](https://github.com/sindresorhus/awesome) on GitHub. Users can create & collaborate on these guides using links they collected as building blocks.
 - An open knowledge graph of topics where topics can cover multiple tags. Users similar to services like [Goodreads](https://www.goodreads.com) can mark any topic as as learning or learned.
 - Such a graph of topics allows progression of knowledge. Feeds can be generated for each topic a user is learning.
 - Social network of users with ability to follow users and see what links, topics they are learning.
