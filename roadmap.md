@@ -36,6 +36,6 @@ To achieve this goal of creating the best platform for sharing and building on i
 
 We personally cannot wait to build such a platform. We hope by building it, we finally kill the broken education system that exists now in many parts of the world. Education as it stands now is inflexible but above all it's insulting to the students who just wish to create things **now**. Not in the future.
 
-Our team is small. Just [Nikita](https://github.com/nikitavoloboev) and [John](https://github.com/jletey). We wish we can hire someone to help us build this together but we can't finance it as it stands.
+Our team is small. Just [Nikita](https://github.com/nikitavoloboev) and [John](https://github.com/johnletey). We wish we can hire someone to help us build this together but we can't finance it as it stands.
 
-If you are an investor reading this, we would love to get in touch with you. Otherwise if you wish still to join our team our community, you are [welcome to do so](https://discord.gg/KKYdWjt). Thank you ❤️
+If you are an investor reading this, we would love to get in touch with you. Otherwise if you wish still to join our team our community, you are [welcome to do so](https://discord.gg/bxtD8x6aNF). Thank you ❤️
