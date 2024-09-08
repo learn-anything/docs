@@ -9,7 +9,8 @@ import { type HomeLayoutProps } from "fumadocs-ui/home-layout"
  */
 export const baseOptions: HomeLayoutProps = {
 	nav: {
-		title: "Docs"
+		// TODO: should show LA icon here that links to the website home page instead
+		title: ""
 	},
 	links: [
 		{
