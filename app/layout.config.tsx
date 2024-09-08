@@ -1,4 +1,5 @@
 import { type HomeLayoutProps } from "fumadocs-ui/home-layout"
+import { Logo } from "../components/logo"
 
 /**
  * Shared layout configurations
@@ -9,8 +10,8 @@ import { type HomeLayoutProps } from "fumadocs-ui/home-layout"
  */
 export const baseOptions: HomeLayoutProps = {
 	nav: {
-		// TODO: should show LA icon here that links to the website home page instead
-		title: ""
+		// TODO: on white bg, logo is barely visible
+		title: <Logo />
 	},
 	links: [
 		{

@@ -5,7 +5,13 @@ import { source } from "@/app/source"
 
 export default function Layout({ children }: { children: ReactNode }) {
 	return (
-		<DocsLayout tree={source.pageTree} {...baseOptions}>
+		<DocsLayout
+			tree={source.pageTree}
+			{...baseOptions}
+			sidebar={{
+				defaultOpenLevel: 2
+			}}
+		>
 			{children}
 		</DocsLayout>
 	)
