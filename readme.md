@@ -1,4 +1,4 @@
-# [Docs.Learn-Anything.xyz](https://docs.learn-anything.xyz)
+# [docs.learn-anything.xyz](https://docs.learn-anything.xyz)
 
 > Docs, API and all things you can know about LA
 
