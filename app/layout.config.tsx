@@ -9,13 +9,24 @@ import { type HomeLayoutProps } from "fumadocs-ui/home-layout"
  */
 export const baseOptions: HomeLayoutProps = {
 	nav: {
-		title: "My App"
+		title: "Docs"
 	},
 	links: [
 		{
-			text: "Documentation",
-			url: "/docs",
-			active: "nested-url"
+			text: "Website",
+			url: "https://learn-anything.xyz"
+		},
+		{
+			text: "Website Code",
+			url: "https://github.com/learn-anything/learn-anything"
+		},
+		{
+			text: "Docs Code",
+			url: "https://github.com/learn-anything/docs"
+		},
+		{
+			text: "Discord",
+			url: "https://discord.com/invite/bxtD8x6aNF"
 		}
 	]
 }
