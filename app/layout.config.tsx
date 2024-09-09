@@ -11,8 +11,8 @@ import { Logo } from "../components/logo"
 export const baseOptions: HomeLayoutProps = {
 	nav: {
 		// TODO: on white bg, logo is barely visible
-		// TODO: on click it should go to learn-anything.xyz
-		title: <Logo />
+		title: <Logo />,
+		url: "https://learn-anything.xyz"
 	},
 	links: [
 		{
