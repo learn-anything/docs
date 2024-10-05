@@ -4,9 +4,14 @@
 
 Published using [Fumadocs](https://fumadocs.vercel.app/).
 
+## Files
+
+- [content](content)
+  - [docs](content/docs) - holds the docs, make or edit `.mdx` files
+
 ## Setup
 
-Using [Bun](https://bun.sh):
+Using [Bun](https://bun.sh).
 
 ```
 bun i
@@ -17,10 +22,5 @@ bun i
 ```
 bun dev
 ```
-
-## Files
-
-- [content](content)
-  - [docs](content/docs) - holds the docs, make or edit `.mdx` files
 
 [![Discord](https://img.shields.io/badge/Discord-100000?style=flat&logo=discord&logoColor=white&labelColor=black&color=black)](https://discord.com/invite/bxtD8x6aNF) [![X](https://img.shields.io/badge/learnanything-100000?logo=X&color=black)](https://x.com/learnanything_)
