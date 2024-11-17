@@ -2,16 +2,16 @@
 
 > Docs, API and all things you can know about LA
 
-Published using [Fumadocs](https://fumadocs.vercel.app/).
+### Files
 
-## Files
+[Fumadocs](https://fumadocs.vercel.app/) is used as base.
 
 - [content](content)
   - [docs](content/docs) - holds the docs, make or edit `.mdx` files
 
 ## Setup
 
-Using [Bun](https://bun.sh).
+Using [Bun](https://bun.sh):
 
 ```
 bun i
