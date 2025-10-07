@@ -8,7 +8,7 @@ import type { BaseLayoutProps } from "fumadocs-ui/layouts/shared"
  * Docs Layout: app/docs/layout.tsx
  */
 export const baseOptions: BaseLayoutProps = {
-  githubUrl: "https://github.com/learn-anything-xyz/docs",
+  githubUrl: "https://github.com/learn-anything/docs",
   nav: {
     title: "docs.learn-anything.xyz",
   },
@@ -19,7 +19,7 @@ export const baseOptions: BaseLayoutProps = {
     },
     {
       text: "GitHub",
-      url: "https://github.com/learn-anything-xyz",
+      url: "https://github.com/learn-anything",
     },
     {
       text: "X",
